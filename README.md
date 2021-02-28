@@ -49,6 +49,10 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
 
 ### 3.4. Creating First Route
 
+        modified:   backend/app.js
+        new file:   backend/controllers/productController.js
+        new file:   backend/routes/product.js
+
 ### 3.5. Setting Up Postman Environment
 
 ### 3.6. Install & Setup MongoDB Locally
