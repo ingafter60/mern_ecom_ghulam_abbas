@@ -40,6 +40,13 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
 
 ### 3.3. Installing & Setting up Nodemon
 
+        npm install nodemon --save-dev
+        runserver: npm run dev
+        runserver: npm run prod
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
+
 ### 3.4. Creating First Route
 
 ### 3.5. Setting Up Postman Environment
