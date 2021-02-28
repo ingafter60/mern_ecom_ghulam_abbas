@@ -27,15 +27,26 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
         new file:   package-lock.json
         new file:   package.json
 
-3. Let's start with ShopIT Backend
+## 3. Let's start with ShopIT Backend
 
-3.1. Get ShopIT Project GitHub Link
-3.2. Basic Project Setup
-3.3. Installing & Setting up Nodemon
-3.4. Creating First Route
-3.5. Setting Up Postman Environment
-3.6. Install & Setup MongoDB Locally
-3.7. Connecting to MongoDB
+### 3.1. Get ShopIT Project GitHub Link
+
+### 3.2. Basic Project Setup: Creating expres server
+
+        modified:   README.md
+        new file:   backend/app.js
+        new file:   backend/config/config.env
+        new file:   backend/server.js
+
+### 3.3. Installing & Setting up Nodemon
+
+### 3.4. Creating First Route
+
+### 3.5. Setting Up Postman Environment
+
+### 3.6. Install & Setup MongoDB Locally
+
+### 3.7. Connecting to MongoDB
 
 4. Adding Products Resource
 
