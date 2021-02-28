@@ -18,6 +18,15 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
         new file:   .gitignore
         new file:   README.md
 
+### 2.3 Installing packages: express, dotenv, mongoose
+
+        npm init
+        npm install express dotenv mongoose
+        modified:   .gitignore
+        modified:   README.md
+        new file:   package-lock.json
+        new file:   package.json
+
 3. Let's start with ShopIT Backend
 
 3.1. Get ShopIT Project GitHub Link
