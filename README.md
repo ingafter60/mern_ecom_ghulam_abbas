@@ -68,15 +68,24 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
         new file:   backend/config/database.js
         modified:   backend/server.js
 
-4. Adding Products Resource
+## 4. Adding Products Resource
 
-4.1. Creating Product Model
-4.2. Admin - Create & Save Product
-4.3. Creating Data Seeder
-4.4. Display all Products
-4.5. Get Single Product
-4.6. Admin - Update Product
-4.7. Admin - Delete Product
+### 4.1. Creating Product Model
+
+        modified:   README.md
+        new file:   backend/models/product.js
+
+### 4.2. Admin - Create & Save Product
+
+### 4.3. Creating Data Seeder
+
+### 4.4. Display all Products
+
+### 4.5. Get Single Product
+
+### 4.6. Admin - Update Product
+
+### 4.7. Admin - Delete Product
 
 5. Backend Error Handling
 
