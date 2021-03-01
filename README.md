@@ -85,6 +85,11 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
 
 ### 4.3. Creating Data Seeder
 
+        renamed:    backend/data/product.json -> backend/data/products.json
+        modified:   backend/models/product.js
+        new file:   backend/utils/seeder.js
+        modified:   package.json
+
 ### 4.4. Display all Products
 
 ### 4.5. Get Single Product
