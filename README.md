@@ -77,6 +77,12 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
 
 ### 4.2. Admin - Create & Save Product
 
+        modified:   .gitignore
+        modified:   backend/controllers/productController.js
+        new file:   backend/data/product.json
+        modified:   backend/models/product.js
+        modified:   backend/routes/product.js
+
 ### 4.3. Creating Data Seeder
 
 ### 4.4. Display all Products

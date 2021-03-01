@@ -1,7 +1,7 @@
 // BACKEND/models/product.js
 
 // Import module
-const mongoose = requiere('mongoose')
+const mongoose = require('mongoose')
 
 // Db product schema
 const productSchema = new mongoose.Schema({
@@ -18,7 +18,7 @@ const productSchema = new mongoose.Schema({
     default: 0.0,
   },
   description: {
-    type: string,
+    type: String,
     require: [true, 'Please enter product description'],
   },
   rating: {
