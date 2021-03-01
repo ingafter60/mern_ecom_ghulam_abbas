@@ -55,9 +55,18 @@ https://github.com/ingafter60/mern_ecom_ghulam_abbas
 
 ### 3.5. Setting Up Postman Environment
 
+        PASS
+
 ### 3.6. Install & Setup MongoDB Locally
 
+        PASS
+
 ### 3.7. Connecting to MongoDB
+
+        modified:   README.md
+        modified:   backend/config/config.env
+        new file:   backend/config/database.js
+        modified:   backend/server.js
 
 4. Adding Products Resource
 
